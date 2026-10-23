@@ -1,1 +1,1 @@
-console.log("Abdullah Akhter")
+console.log("Abdullah Akhter is a good boy")
